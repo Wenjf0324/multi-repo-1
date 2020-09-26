@@ -14,6 +14,10 @@
 * 迪丽热巴
 * 易烊千玺
 
+我的网站是[我的官网](http://baidu.com)
+
+![一张图片](01.jpeg)
+
 ```javascript
 console.log("hello")
 ```
